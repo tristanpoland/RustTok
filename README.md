@@ -1,3 +1,6 @@
+# WARNING: This Crate is in-development
+Nothing is yet guarunteed to work correctly
+
 # TikTok-RS
 
 An unofficial Rust library for interacting with TikTok's web API. This library provides a safe, fast, and feature-rich way to interact with TikTok programmatically.
